@@ -12,6 +12,7 @@ project/vs/obj
 *.user
 
 out/
+bin/
 .vs/
 project/vs/readme/
 CMakeSettings.json
